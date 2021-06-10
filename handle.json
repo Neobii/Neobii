@@ -4,11 +4,21 @@
   "products": [
     {
       "name": "learn-everything",
-      "job": "product-owner"
+      "job": "product-owner",
+      "cargoBay": [
+        {
+          "holding": "{{ 🏰🦉 }}",
+          "description": "hoot hoot"
+        }
+      ]
     },
     {
       "name": "shielkwamm",
-      "job": "product-owner"
+      "job": "product-owner",
+      "inventory": { 
+        "holding": "{{ 🏰🐓 }}",
+        "description": "hoot hoot"
+      }
     }
   ],
   "githubProfileLink": "https://github.com/Neobii"

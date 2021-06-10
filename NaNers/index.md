@@ -8,9 +8,3 @@
 
 ### [informati0n](/docs/NaNers/informati0n)
 
-⚙️ tilt
-* {{ 🦛 }} heap overflow 
-* 🔪 liberty warning
-* 🐻 too much sugar
-* 🦠 buffer overflow
-* 🤖 #approach
