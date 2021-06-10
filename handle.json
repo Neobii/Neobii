@@ -1,0 +1,15 @@
+{
+  "name": "neobii",
+  "profiles": ["NaNers", "LE"],
+  "products": [
+    {
+      "name": "learn-everything",
+      "job": "product-owner"
+    },
+    {
+      "name": "shielkwamm",
+      "job": "product-owner"
+    }
+  ],
+  "githubProfileLink": "https://github.com/Neobii"
+}
