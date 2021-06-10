@@ -1,7 +1,7 @@
-## Don't forget to be able to deploy to github pages
+## Sh *_ME
 
-# https://medium.com/@anotherplanet/git-tips-next-js-github-pages-2dbc9a819cb8
+--> Weary Adventurer
 
---> Yoink
+here's my [handle](./handle.json)
 
-here's my  [handle](./handle.json)
+> oh yeah this is for [https://shielkwamm.com](/buttholes)
